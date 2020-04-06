@@ -1,2 +1,2 @@
 # node-api
-api ussando atecnologia do nodejs
+api usando atecnologia do nodejs
